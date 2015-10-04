@@ -1,6 +1,6 @@
 permalink:   none
 lsi:         false
-pygments:    true
+highlighter: pygments
 destination: public
 markdown:    rdiscount
 rdiscount:   { extensions: [smart] }
@@ -9,4 +9,4 @@ exclude:
   - Guardfile
   - README.markdown
 
-title: "Why's (Poignant) Guide to Ruby"
+title: "Why의 (감동적인) 루비 가이드"
